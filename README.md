@@ -1,4 +1,4 @@
-#Calcolatore di Media Ponderata su Gesco
+# Calcolatore di Media Ponderata su Gesco
 
 ## Introduzione
 
