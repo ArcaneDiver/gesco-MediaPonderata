@@ -3,7 +3,7 @@
 ## Introduzione
 
 Salve questa estensione ho deciso di crearla in risposta al mio bisogno di sapere la media. Quindi ho deciso di pubblicarla.
-## Installation
+## Installazione
 
  * Scaricare lo zip
  * Unzippalo
