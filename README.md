@@ -5,7 +5,7 @@
 Salve questa estensione ho deciso di crearla in risposta al mio bisogno di sapere la media. Quindi ho deciso di pubblicarla.
 ## Installazione
 
- * Scaricare lo zip
+ * Scarica lo zip
  * Unzippalo
  * Accedi alla sezione Estensioni di Chrome
  * Attiva la modalità sviluppatore
