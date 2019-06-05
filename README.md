@@ -14,7 +14,7 @@ Salve questa estensione ho deciso di crearla in risposta al mio bisogno di saper
 
  * Inserimento nella tabella delle valutazioni apposite caselle contenenti la media di ogni singola casella
  * Inserimento nella legenda una apposita casella contenente la media totale
- * Il colore delle caselle è dinamico in base alla valutazione e segue quello della pagina
+ * Il colore delle caselle è dinamico in base alla valutazione e segue gli standard della pagina
 ## Utilizzo
 
 Andare sulla pagina di Gesco "valutazioni-tabella" e le medie saranno caricate automaticamente.
