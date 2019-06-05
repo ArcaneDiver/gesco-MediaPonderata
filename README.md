@@ -10,7 +10,11 @@ Salve questa estensione ho deciso di crearla in risposta al mio bisogno di saper
  * Accedi alla sezione Estensioni di Chrome
  * Attiva la modalità sviluppatore
  * Trascina la cartella "gesco-MediaPonderata-master" sullo schermo e rilascia.
+## Features
 
+ * Inserimento nella tabella delle valutazioni apposite caselle contenenti la media di ogni singola casella
+ * Inserimento nella legenda una apposita casella contenente la media totale
+ * Il colore delle caselle è dinamico in base alla valutazione e segue quello della pagina
 ## Utilizzo
 
 Andare sulla pagina di Gesco "valutazioni-tabella" e le medie saranno caricate automaticamente.
